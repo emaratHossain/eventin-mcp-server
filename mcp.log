@@ -1,0 +1,544 @@
+DEBUG:root:Script started
+DEBUG:mcp.server.lowlevel.server:Initializing server 'weather'
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ReadResourceRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for PromptListRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for GetPromptRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourceTemplatesRequest
+DEBUG:root:MCP Server initialized
+DEBUG:root:Script started
+DEBUG:root:Entered main block
+DEBUG:root:Tools should be registered: ['get_alerts', 'get_forecast']
+DEBUG:asyncio:Using proactor: IocpProactor
+CRITICAL:root:CRITICAL ERROR: unhandled errors in a TaskGroup (1 sub-exception)
+DEBUG:root:Script started
+DEBUG:mcp.server.lowlevel.server:Initializing server 'weather'
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ReadResourceRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for PromptListRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for GetPromptRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourceTemplatesRequest
+DEBUG:root:MCP Server initialized
+DEBUG:root:Script started
+DEBUG:root:Entered main block
+DEBUG:root:Tools should be registered: ['get_alerts', 'get_forecast']
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:mcp.server.lowlevel.server:Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000167592CB110>
+INFO:mcp.server.lowlevel.server:Processing request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000167592CA5D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x000001675923E060>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x000001675923DF30>
+INFO:mcp.server.lowlevel.server:Processing request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x0000016759344A70>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x0000016759233130>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x0000016759232CF0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x000001675926DF50>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x000001675926E550>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x000001675926AF30>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x000001675926BE30>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x0000016759340AD0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x0000016759341550>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000167592BB380>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x0000016758F95CD0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x0000016758F950D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x0000016758F93C20>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000167593081B0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:root:Script started
+DEBUG:mcp.server.lowlevel.server:Initializing server 'weather'
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ReadResourceRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for PromptListRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for GetPromptRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourceTemplatesRequest
+DEBUG:root:MCP Server initialized
+DEBUG:root:Script started
+DEBUG:root:Entered main block
+DEBUG:root:Tools should be registered: ['get_alerts', 'get_forecast']
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:mcp.server.lowlevel.server:Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x0000028224FAB110>
+INFO:mcp.server.lowlevel.server:Processing request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x0000028224FAA5D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x0000028224F1E060>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:root:Script started
+DEBUG:mcp.server.lowlevel.server:Initializing server 'weather'
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ReadResourceRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for PromptListRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for GetPromptRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourceTemplatesRequest
+DEBUG:root:MCP Server initialized
+DEBUG:root:Script started
+DEBUG:root:Entered main block
+DEBUG:root:Tools should be registered: ['get_alerts', 'get_forecast']
+DEBUG:asyncio:Using proactor: IocpProactor
+CRITICAL:root:CRITICAL ERROR: unhandled errors in a TaskGroup (1 sub-exception)
+DEBUG:root:Script started
+DEBUG:mcp.server.lowlevel.server:Initializing server 'weather'
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for CallToolRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ReadResourceRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for PromptListRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for GetPromptRequest
+DEBUG:mcp.server.lowlevel.server:Registering handler for ListResourceTemplatesRequest
+DEBUG:root:MCP Server initialized
+DEBUG:root:Script started
+DEBUG:root:Entered main block
+DEBUG:root:Tools should be registered: ['get_alerts', 'get_forecast']
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:mcp.server.lowlevel.server:Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B146B110>
+INFO:mcp.server.lowlevel.server:Processing request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B146A5D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B13DE060>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B13DDF30>
+INFO:mcp.server.lowlevel.server:Processing request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14E4A70>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B13D3130>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B13D2CF0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B140E150>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B140FC50>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B1409B80>
+INFO:mcp.server.lowlevel.server:Processing request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListToolsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B140B980>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14E2270>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14E2350>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B145B110>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B112DCD0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B112E2D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B1133C20>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14A8050>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD770>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD630>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD770>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD810>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD630>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD9F0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DDA90>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD6D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD9F0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD770>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD8B0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD9F0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD590>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD9F0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DDA90>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD4F0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD630>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DCE10>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD810>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD4F0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD6D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD9F0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DDA90>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD9F0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD3B0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD1D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD810>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD9F0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD590>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD1D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DCE10>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD6D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD3B0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD6D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD810>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD950>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD590>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD130>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD950>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD3B0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DCE10>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD950>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD1D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD950>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD590>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD6D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD810>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DDB30>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD8B0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD6D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD130>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD950>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD590>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD950>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DDA90>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD770>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD8B0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD1D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD770>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD6D0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DDB30>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD950>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DDA90>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD950>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD3B0>
+INFO:mcp.server.lowlevel.server:Processing request of type ListResourcesRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListResourcesRequest
+DEBUG:mcp.server.fastmcp.resources.resource_manager:Listing resources
+DEBUG:mcp.server.lowlevel.server:Response sent
+DEBUG:mcp.server.lowlevel.server:Received message: <mcp.shared.session.RequestResponder object at 0x00000170B14DD130>
+INFO:mcp.server.lowlevel.server:Processing request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Dispatching request of type ListPromptsRequest
+DEBUG:mcp.server.lowlevel.server:Response sent

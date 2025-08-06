@@ -1,0 +1,162 @@
+2025-08-05 14:33:54,413 - INFO - Starting Booking MCP Server
+2025-08-05 14:35:35,324 - INFO - Starting Booking MCP Server
+2025-08-05 14:35:35,342 - INFO - Processing request of type ListToolsRequest
+2025-08-05 14:35:35,344 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 14:35:35,353 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 14:35:35,535 - INFO - Processing request of type ListToolsRequest
+2025-08-05 14:35:35,536 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 14:35:35,592 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 14:37:06,003 - INFO - Processing request of type CallToolRequest
+2025-08-05 14:37:06,038 - INFO - Processing request of type ListToolsRequest
+2025-08-05 14:37:06,040 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 14:37:06,073 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 14:37:06,204 - INFO - HTTP Request: GET http://release.local/wp-json/eventin/v2/orders?paged=1&per_page=1&_locale=user "HTTP/1.1 200 OK"
+2025-08-05 14:47:06,675 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 14:47:06,682 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 14:57:06,680 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 14:57:06,684 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 15:07:06,681 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 15:07:06,687 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 15:17:06,684 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 15:17:06,692 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 15:27:06,680 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 15:27:06,686 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 17:35:47,882 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 17:35:47,895 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 17:38:05,681 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 17:38:05,689 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 17:48:05,711 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 17:48:05,716 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 17:58:05,705 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 17:58:05,714 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 18:08:05,719 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 18:08:05,723 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 18:18:05,720 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 18:18:05,725 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 18:28:05,713 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 18:28:05,717 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 18:38:05,712 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 18:38:05,718 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 18:48:05,716 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 18:48:05,724 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 19:16:29,923 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 19:16:29,930 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 19:18:05,689 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 19:18:05,693 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 19:28:05,707 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 19:28:05,711 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 20:32:19,657 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 20:32:19,689 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 21:13:47,764 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 21:13:47,777 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 21:18:05,717 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 21:18:05,722 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 21:28:05,670 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 21:28:05,675 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 21:45:05,246 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 21:45:05,253 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 21:48:05,705 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 21:48:05,713 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 22:03:16,738 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 22:03:16,743 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 22:08:05,670 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 22:08:05,682 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 22:18:05,681 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 22:18:05,690 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 22:28:05,712 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 22:28:05,718 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 22:38:05,697 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 22:38:05,706 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 22:48:05,687 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 22:48:05,693 - INFO - Processing request of type ListPromptsRequest
+2025-08-05 23:12:44,461 - INFO - Processing request of type ListResourcesRequest
+2025-08-05 23:12:44,467 - INFO - Processing request of type ListPromptsRequest
+2025-08-06 05:34:01,319 - INFO - Processing request of type ListResourcesRequest
+2025-08-06 05:34:01,332 - INFO - Processing request of type ListPromptsRequest
+2025-08-06 05:38:01,061 - INFO - Processing request of type ListResourcesRequest
+2025-08-06 05:38:01,069 - INFO - Processing request of type ListPromptsRequest
+2025-08-06 05:48:01,072 - INFO - Processing request of type ListResourcesRequest
+2025-08-06 05:48:01,081 - INFO - Processing request of type ListPromptsRequest
+2025-08-06 05:58:01,021 - INFO - Processing request of type ListResourcesRequest
+2025-08-06 05:58:01,031 - INFO - Processing request of type ListPromptsRequest
+2025-08-06 06:08:01,024 - INFO - Processing request of type ListResourcesRequest
+2025-08-06 06:08:01,035 - INFO - Processing request of type ListPromptsRequest
+2025-08-06 06:17:30,856 - INFO - Starting Booking MCP Server
+2025-08-06 06:17:35,348 - INFO - Processing request of type ListResourcesRequest
+2025-08-06 06:17:35,360 - INFO - Processing request of type ListPromptsRequest
+2025-08-06 06:17:43,753 - INFO - Starting Booking MCP Server
+2025-08-06 06:17:54,982 - INFO - Starting Booking MCP Server
+2025-08-06 06:17:55,001 - INFO - Processing request of type ListToolsRequest
+2025-08-06 06:17:55,003 - INFO - Processing request of type ListResourcesRequest
+2025-08-06 06:17:55,012 - INFO - Processing request of type ListPromptsRequest
+2025-08-06 06:17:55,870 - INFO - Processing request of type ListToolsRequest
+2025-08-06 06:17:55,871 - INFO - Processing request of type ListResourcesRequest
+2025-08-06 06:17:55,907 - INFO - Processing request of type ListPromptsRequest
+2025-08-06 06:17:56,365 - INFO - Processing request of type ListToolsRequest
+2025-08-06 06:17:56,367 - INFO - Processing request of type ListResourcesRequest
+2025-08-06 06:17:56,839 - INFO - Processing request of type ListPromptsRequest
+2025-08-06 06:18:26,348 - INFO - Starting Booking MCP Server
+2025-08-06 06:18:26,364 - CRITICAL - Server crashed: unhandled errors in a TaskGroup (1 sub-exception)
+  + Exception Group Traceback (most recent call last):
+  |   File "D:\machine_learning\mcp-server-demo\eventin_mcp_server.py", line 130, in <module>
+  |     mcp.run(transport='stdio')
+  |     ~~~~~~~^^^^^^^^^^^^^^^^^^^
+  |   File "D:\machine_learning\mcp-server-demo\.venv\Lib\site-packages\mcp\server\fastmcp\server.py", line 250, in run
+  |     anyio.run(self.run_stdio_async)
+  |     ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  |   File "D:\machine_learning\mcp-server-demo\.venv\Lib\site-packages\anyio\_core\_eventloop.py", line 74, in run
+  |     return async_backend.run(func, args, {}, backend_options)
+  |            ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  |   File "D:\machine_learning\mcp-server-demo\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2316, in run
+  |     return runner.run(wrapper())
+  |            ~~~~~~~~~~^^^^^^^^^^^
+  |   File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+  |     return self._loop.run_until_complete(task)
+  |            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  |   File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 725, in run_until_complete
+  |     return future.result()
+  |            ~~~~~~~~~~~~~^^
+  |   File "D:\machine_learning\mcp-server-demo\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2304, in wrapper
+  |     return await func(*args)
+  |            ^^^^^^^^^^^^^^^^^
+  |   File "D:\machine_learning\mcp-server-demo\.venv\Lib\site-packages\mcp\server\fastmcp\server.py", line 656, in run_stdio_async
+  |     async with stdio_server() as (read_stream, write_stream):
+  |                ~~~~~~~~~~~~^^
+  |   File "C:\Users\USER\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 221, in __aexit__
+  |     await anext(self.gen)
+  |   File "D:\machine_learning\mcp-server-demo\.venv\Lib\site-packages\mcp\server\stdio.py", line 85, in stdio_server
+  |     async with anyio.create_task_group() as tg:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "D:\machine_learning\mcp-server-demo\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 772, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     ) from None
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "D:\machine_learning\mcp-server-demo\.venv\Lib\site-packages\mcp\server\stdio.py", line 81, in stdout_writer
+    |     await stdout.flush()
+    |   File "D:\machine_learning\mcp-server-demo\.venv\Lib\site-packages\anyio\_core\_fileio.py", line 140, in flush
+    |     return await to_thread.run_sync(self._fp.flush)
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "D:\machine_learning\mcp-server-demo\.venv\Lib\site-packages\anyio\to_thread.py", line 56, in run_sync
+    |     return await get_async_backend().run_sync_in_worker_thread(
+    |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |         func, args, abandon_on_cancel=abandon_on_cancel, limiter=limiter
+    |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |     )
+    |     ^
+    |   File "D:\machine_learning\mcp-server-demo\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 2476, in run_sync_in_worker_thread
+    |     return await future
+    |            ^^^^^^^^^^^^
+    |   File "D:\machine_learning\mcp-server-demo\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 967, in run
+    |     result = context.run(func, *args)
+    | OSError: [Errno 22] Invalid argument
+    +------------------------------------
+2025-08-06 06:18:35,446 - INFO - Starting Booking MCP Server
+2025-08-06 06:18:35,464 - INFO - Processing request of type ListToolsRequest
+2025-08-06 06:18:35,466 - INFO - Processing request of type ListResourcesRequest
+2025-08-06 06:18:35,474 - INFO - Processing request of type ListPromptsRequest
+2025-08-06 06:18:36,356 - INFO - Processing request of type ListToolsRequest
+2025-08-06 06:18:36,357 - INFO - Processing request of type ListResourcesRequest
+2025-08-06 06:18:36,389 - INFO - Processing request of type ListPromptsRequest
