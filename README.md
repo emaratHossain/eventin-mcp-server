@@ -58,3 +58,5 @@ Steps to communicate with our MCP server using claude desktop:
    }
 ```
 7. Now you will see that, your mcp tools are connected with the claude ![alt text](image-4.png)
+8. Sample output <img width="1522" height="813" alt="image" src="https://github.com/user-attachments/assets/a2ce8ca9-b25b-4bdb-88f6-9abbf02ff4c6" />
+
