@@ -42,6 +42,7 @@ Steps to communicate with our MCP server using claude desktop:
 3. ![alt text](image-2.png)
 4. ![alt text](image-3.png)
 5. you will find "claude_desktop_config.json", here just put following code
+```jsx
    {
       "mcpServers": {
          "eventin": {
@@ -55,4 +56,5 @@ Steps to communicate with our MCP server using claude desktop:
          }
       }
    }
-6. ![alt text](image-4.png)
+```
+7. ![alt text](image-4.png)
