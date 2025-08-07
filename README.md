@@ -38,10 +38,10 @@ Steps to communicate with our MCP server using claude desktop:
 ------------
 
 1. Download and install claude desktop
-2. ![alt text](image-1.png)
-3. ![alt text](image-2.png)
-4. ![alt text](image-3.png)
-5. you will find "claude_desktop_config.json", here just put following code
+2. Open claude desktop, click "Upgrade to connect your tools to Claude" ![alt text](image-1.png)
+3. Click "Manage Connectors" in right corner ![alt text](image-2.png)
+4. Click "Developer" menu in the left side, and you find "Edit Config" button, click it ![alt text](image-3.png)
+5. After that, you will find "claude_desktop_config.json", here just put following code
 ```jsx
    {
       "mcpServers": {
@@ -57,4 +57,4 @@ Steps to communicate with our MCP server using claude desktop:
       }
    }
 ```
-7. ![alt text](image-4.png)
+7. Now you will see that, your mcp tools are connected with the claude ![alt text](image-4.png)
